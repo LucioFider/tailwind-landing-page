@@ -1,0 +1,10 @@
+export { default as Navbar } from "./Navbar";
+export { default as Hero } from "./Hero";
+export { default as Features } from "./Features";
+export { default as Solutions } from "./Solutions";
+export { default as Footer } from "./Footer";
+export { default as Banner } from "./Banner";
+export { default as CTA } from "./CTA";
+export { default as Aboutus } from "./Aboutus";
+export { default as Questions } from "./Questions";
+export { default as Testimonials } from "./Testimonials";
